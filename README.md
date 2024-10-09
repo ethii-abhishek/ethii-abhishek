@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I love capturing memories 📷**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethii.abhishek) [![Facebook](https://img.shields.io/badge/Facebook-%3b5998.svg?logo=Facebook&logoColor=white)](https://facebook.com/ethii.abhishek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethii-abhishek) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ethii-abhishek) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethii.abhishek) [![Facebook](https://img.shields.io/badge/Facebook-%0e7cc6.svg?logo=Facebook&logoColor=white)](https://facebook.com/ethii.abhishek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethii-abhishek) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ethii-abhishek) [![Skype](https://img.shields.io/badge/Skype-%23E4405F.svg?logo=Skype&logoColor=white)](https://skype.com/ethii.abhishek) 
 
 
 # 💻 Tech Stack:
