@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, MongoDB, JAVA Etc.**
 
-- 📫 How to reach me ** abhishekpal.hp@gmail.com**
+- 📫 How to reach me  abhishekpal.hp@gmail.com
 
 - ⚡ Fun fact **I love capturing memories 📷**
 
