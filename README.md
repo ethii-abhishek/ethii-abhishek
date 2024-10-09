@@ -1,7 +1,7 @@
-<h1 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Abhishek Pal </h1>
+<h2 align="left">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30">, I'm Abhishek Pal </h2  >
 <h3 align="left">I am human who love technology , nature and camera 📷.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="venkateeshh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek" /> </p>
 
 - 🔭 I’m currently working on **MERN stack**
 
@@ -16,7 +16,7 @@
 - ⚡ Fun fact **I love capturing memories 📷**
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Venkateeshh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/venkateeshh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/venkateeshh) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ethii.abhishek) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethii-abhishek) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ethii-abhishek) 
 
 
 # 💻 Tech Stack:
